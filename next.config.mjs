@@ -5,9 +5,14 @@ const nextConfig = {
             {
                 protocol: "https",
                 hostname: "tailus.io",
+            },
+            {
+                protocol: "https",
+                hostname: "www.shutterstock.com",
             }
         ]
     },
 };
 
 export default nextConfig;
+
